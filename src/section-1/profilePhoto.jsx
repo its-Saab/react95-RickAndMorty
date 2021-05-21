@@ -14,7 +14,7 @@ import {
 
 const Wrapper = styled.div`
 	padding: 5rem;
-	/* transform: scale(1,1.1); */
+	transform: scale(1,1.2);
 
 	background: ___CSS_0___;
 	#default-buttons button {
